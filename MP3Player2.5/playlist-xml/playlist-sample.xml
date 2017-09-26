@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist-root>
+	<playlist-group>
+		<playlist name="testplaylist" createdOn="">
+			<file url=""/>
+			<folder url="" fileType=""/>
+		</playlist>
+	</playlist-group>
+</playlist-root>

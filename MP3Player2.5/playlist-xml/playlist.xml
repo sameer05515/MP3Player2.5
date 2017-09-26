@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist-root>
+    <playlist-group>
+        <playlist createdOn="1404668733733" name="testplaylist1">
+            <file url=""/>
+            <folder fileType="" url=""/>
+        </playlist>
+        <playlist createdOn="1404668733733" name="testplaylist2">
+            <file url=""/>
+            <folder fileType="" url=""/>
+        </playlist>
+        <playlist createdOn="1413127792011" name="firstPlaylist1413127792011"/>
+        <playlist createdOn="1413127960195" name="firstPlaylist1413127960195"/>
+        <playlist createdOn="1413133296717" name="firstPlaylist_1413133296717"/>
+        <playlist createdOn="1413127169212" name="firstPlaylist1413127169212">
+            <file url="D:/songs/1920 evil returns/ERKhudKoTereMPKhanCom.mp3"/>            
+        </playlist>
+    </playlist-group>
+</playlist-root>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist-root>
+    <playlist-group>
+        <playlist createdOn="1404668733733" name="testplaylist2">
+            <file url=""/>
+            <folder fileType="" url=""/>
+        </playlist>
+        <playlist createdOn="1413133296717" name="firstPlaylist_1413133296717"/>
+        <playlist createdOn="1413127169212" name="firstPlaylist1413127169212">
+            <file url="D:/songs/1920 evil returns/ERKhudKoTereMPKhanCom.mp3"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/AlbumArtSmall1.jpg"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/Folder1.jpg"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/JabTakHaiJaanFront.jpg"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/JTHJChallaMPKhanCom.mp3"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/JTHJHeerMPKhanCom.mp3"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/JTHJIshqDanceMPKhanCom.mp3"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/JTHJIshqShavaMPKhanCom.mp3"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/JTHJJabTakHaiJaanMPKhanCom.mp3"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/JTHJJabTakHaiJaanThePoemMPKhanCom.mp3"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/JTHJJiyaReMPKhanCom.mp3"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/JTHJSaansMPKhanCom.mp3"/>
+            <file url="D:/songs/Jab_Tak_Hai_Jaan_2012/JTHJSaansRepriseMPKhanCom.mp3"/>
+        </playlist>
+    </playlist-group>
+</playlist-root>
