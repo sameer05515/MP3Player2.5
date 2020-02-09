@@ -48,10 +48,10 @@ public class PlayerApp extends JFrame {
 	private PlayerApp() {
 		try {
 			URL url16 = Paths
-					.get("D:/javaEclipseRoot/MP3Player2.5/mp3-player-app/icon/flv_icon.png")
+					.get("/home/premendra/git/MP3Player2.5/MP3Player2.5/mp3-player-app/icon/flv_icon.png")
 					.toUri().toURL();
 			URL url32 = Paths
-					.get("D:/javaEclipseRoot/MP3Player2.5/mp3-player-app/icon/prem1.png")
+					.get("/home/premendra/git/MP3Player2.5/MP3Player2.5/mp3-player-app/icon/prem1.png")
 					.toUri().toURL();
 			// D:/javaEclipseRoot/ProjectBunch/swing-test-src/com/prem/examples/frame/icon/flv_icon.png
 

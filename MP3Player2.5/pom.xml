@@ -5,6 +5,7 @@
 	<artifactId>MP3Player2.5</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<build>
+	<finalName>MP3Player2.5</finalName>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
 			<plugin>
